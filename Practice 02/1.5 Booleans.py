@@ -1,0 +1,5 @@
+print(bool('con'))
+print(bool(666))
+print(bool(['apple' + 'microsoft' + 'steam']))
+print(bool(('a', 'b', 'c', '9d',)))
+print(bool())

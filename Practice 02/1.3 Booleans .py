@@ -1,0 +1,6 @@
+print(bool(121)) 
+print(bool('h'))
+print(bool(0))
+print(bool(1))
+print(bool(' '))
+print(bool(''))
