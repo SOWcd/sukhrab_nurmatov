@@ -18,7 +18,7 @@ print('do difference')
 #Example
 print("Hello World!", end=" ")
 print("I will print on the same line.")
-
+# it is like do not write endl in c++
 
 
 print('hello,', end =' ') ; print('world!')
